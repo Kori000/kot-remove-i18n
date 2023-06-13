@@ -1,0 +1,24 @@
+{
+  "name": "@kot/remove-i18n",
+  "version": "1.0.0",
+  "description": "Remove i18n from https://github.com/Kori000/Kot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/remove-i18n/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kori000/kot-remove-i18n.git"
+  },
+  "keywords": [
+    "Kot",
+    "React",
+    "i18n"
+  ],
+  "author": "kori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kori000/kot-remove-i18n/issues"
+  },
+  "homepage": "https://github.com/Kori000/kot-remove-i18n#readme"
+}
