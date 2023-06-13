@@ -1,5 +1,5 @@
 {
-  "name": "@kot/remove-i18n",
+  "name": "kot-remove-i18n",
   "version": "1.0.0",
   "description": "Remove i18n from https://github.com/Kori000/Kot",
   "main": "index.js",
