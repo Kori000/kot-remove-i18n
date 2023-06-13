@@ -1,10 +1,7 @@
 const fs = require('fs');
 const path = require('path');
-
-const i18nFilePath = path.resolve(__dirname, '../../src/i18n.js');
-
-const mainFilePath = path.resolve(__dirname, '../../src/main.jsx');
-
+const i18nFilePath = path.resolve('src/i18n.js');
+const mainFilePath = path.resolve('src/main.jsx');
 
 function removeImportStatement_main_jsx () {
   let mainFileContent = fs.readFileSync(mainFilePath, 'utf8')
