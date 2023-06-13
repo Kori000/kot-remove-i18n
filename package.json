@@ -1,10 +1,10 @@
 {
   "name": "kot-remove-i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove i18n from https://github.com/Kori000/Kot",
   "main": "index.js",
   "scripts": {
-    "test": "node ./src/remove-i18n/index.js"
+    "remove-i18n": "node ./src/remove-i18n/index.js"
   },
   "repository": {
     "type": "git",
